@@ -1,0 +1,1 @@
+Python user the memory-based test automation tool pyppeteer to log on to taobao to get cookies
